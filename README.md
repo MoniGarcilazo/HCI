@@ -6,6 +6,6 @@ Repositorio de HCI_2023
 | Nombre | <!-- --> |
 |--------|-|
 |Aguilar Ramirez, Ian| <img src="./img/Ian.jpg" width="120" height="120">|
-|Alvarado Interian, Ruben Enrique| <img src="./img/Ruben.jpeg" width="120" height="270">|
+|Alvarado Interian, Ruben Enrique| <img src="./img/Ruben.jpeg" width="120" height="190">|
 |Arzat Torres, Erick Christopher|<img src="./img/Erick.jpeg" width="120" height="270">|
 |Garcilazo Cuevas, Monica del Carmen| <img src="./img/Monica.jpeg" width="200" height="200"> |
